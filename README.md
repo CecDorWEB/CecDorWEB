@@ -1,5 +1,6 @@
 ### Hi there 👋
-> https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif?cid=790b7611dqdlynsjsbqhidav7k64ry7324ku7428naewyz21&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://img.freepik.com/vecteurs-libre/mot-bienvenue-personnages-dessins-animes_81522-4207.jpg?w=826&t=st=1708329138~exp=1708329738~hmac=3b5ff0d1f5e26e8a629b7a189c2dd149a1aaf9b513cf28f89e95338d3bf4b7d0)
+
 <!--
 **CecDorWEB/CecDorWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
