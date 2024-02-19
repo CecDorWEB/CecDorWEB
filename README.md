@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif?cid=790b7611dqdlynsjsbqhidav7k64ry7324ku7428naewyz21&ep=v1_gifs_search&rid=giphy.gif&ct=g
+> https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif?cid=790b7611dqdlynsjsbqhidav7k64ry7324ku7428naewyz21&ep=v1_gifs_search&rid=giphy.gif&ct=g
 <!--
 **CecDorWEB/CecDorWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
