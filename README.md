@@ -2,9 +2,9 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://img.freepik.com/vecteurs-libre/mot-bienvenue-personnages-dessins-animes_81522-4207.jpg?w=826&t=st=1708329138~exp=1708329738~hmac=3b5ff0d1f5e26e8a629b7a189c2dd149a1aaf9b513cf28f89e95338d3bf4b7d0)
 
 📚 I'm currently studying Development<br>
-🔭 I looking for a work-study contract for a bac+3 level
-📫 How to reach me: www.linkedin.com/in/cécile-dorange
-💻 Looking forward to discover other languages: JAVA/JEE
+🔭 I looking for a work-study contract for a bac+3 level<br>
+📫 How to reach me: www.linkedin.com/in/cécile-dorange<br>
+💻 Looking forward to discover other languages: JAVA/JEE<br>
 ⚙️ I love team project
 
 <!--
